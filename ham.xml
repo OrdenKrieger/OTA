@@ -10,11 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-             <MaintainerChangelogUrl
-                id="maintainerchangelog"
-                title="MaintainerChangelog"
-                description="View Maintainer Changelog">https://github.com/OrdenKrieger/OTA/blob/master/CHANGELOG.mkdn</MaintainerChangelogUrl>
+                description="View Changelog">https://github.com/OrdenKrieger/OTA/blob/master/Changelog.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"

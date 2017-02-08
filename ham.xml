@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <OnePlus2>
-            <Filename> </Filename>
+            <Filename>RR-N-v5.8.1-20170208-ham-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build"> </RomUrl>
+                description="Latest ResurrectionRemix build">https://forum.xda-developers.com/devdb/project/dl/?id=23060&task=get</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"

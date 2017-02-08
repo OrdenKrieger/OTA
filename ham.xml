@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build">https://forum.xda-developers.com/devdb/project/dl/?id=23060&task=get</RomUrl>
+                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/ham/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
